@@ -80,7 +80,7 @@ void printArray(int arr[], int arrLength) {
 
 	:exclamation: Apresente valores reais com duas casas decimais.
 
-:question: Qual a complexidade algorítmica da função `variance` que implementou?
+:question: Quanal a complexidade algorítmica da função `varice` que implementou?
 
 ### Nível 3 (Duração estimada: ~ 25min)
 
